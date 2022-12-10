@@ -67,6 +67,32 @@
 
 
 #If 
-#if Else
+#if Else elif
+
+#a=int(input('a= '))
+#b=int(input('b= '))
+#if a>b:
+#   print(a)
+#else:
+#    print(b)
 
 
+#while
+
+#for i in enumeration:
+
+#for i in range(10):
+ #print(i)
+
+ #функции
+
+def f(x):
+    if x== 1:
+        return 'целое'
+    elif x== 2.3:
+        return 23
+    else:
+        return
+arg=2.3
+print (f(arg))
+print (type(f(arg)))
